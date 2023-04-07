@@ -1,0 +1,5 @@
+\\server-1c\data1c\code\exe\notifications.exe
+\\server-1c\data1c\code\exe\notifications.dll
+\\server-1c\data1c\code\exe\notifications.deps.json
+\\server-1c\data1c\code\exe\notifications.runtimeconfig.json
+\\server-1c\data1c\code\exe\notifications.pdb

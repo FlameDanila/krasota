@@ -1,0 +1,15 @@
+C:\Users\Delfa\source\repos\notifications\notifications\bin\Release\net6.0\notifications.exe
+C:\Users\Delfa\source\repos\notifications\notifications\bin\Release\net6.0\notifications.deps.json
+C:\Users\Delfa\source\repos\notifications\notifications\bin\Release\net6.0\notifications.runtimeconfig.json
+C:\Users\Delfa\source\repos\notifications\notifications\bin\Release\net6.0\notifications.dll
+C:\Users\Delfa\source\repos\notifications\notifications\bin\Release\net6.0\notifications.pdb
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.csproj.AssemblyReference.cache
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.AssemblyInfoInputs.cache
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.AssemblyInfo.cs
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.csproj.CoreCompileInputs.cache
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.dll
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\refint\notifications.dll
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.pdb
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\notifications.genruntimeconfig.cache
+C:\Users\Delfa\source\repos\notifications\notifications\obj\Release\net6.0\ref\notifications.dll
